@@ -2,7 +2,7 @@
 
 
 
-<img src='images/Mars_Screenshot_2020-11-16.png'>
+<img src='Images/Mars_Screenshot_2020-11-16.png'>
 
 
 ![mission_to_mars](Images/mission_to_mars.png)
